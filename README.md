@@ -36,8 +36,8 @@ I also participate in workshops, tech conferences, and competitions to expand my
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="90"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="110"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="110"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="85"/>&nbsp;&nbsp;
