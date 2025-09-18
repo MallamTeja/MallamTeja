@@ -51,8 +51,8 @@ I also participate in workshops, tech conferences, and competitions to expand my
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="170"/>
   </p>
 
 ---
