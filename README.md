@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=32CD32&center=true&vCenter=true&width=800&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I%27m%20Teja;Data%20Analytics;Fullstack;AI%20Enthusiast&cacheBust=1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=800&color=32CD32&center=true&vCenter=true&width=870&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I%27m%20Teja;Data%20Analytics;Fullstack;AI%20Enthusiast&cacheBust=1" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://github.com/topics/codechef/raw/main/codechef.png" width="55"/></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/mallamteja" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="55"/></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/tejamallam" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="55"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="85"/></a>
 </p>
 
 ---
