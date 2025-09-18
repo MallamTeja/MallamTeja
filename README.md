@@ -75,7 +75,7 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <a href="https://www.linkedin.com/in/mallam-teja/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>&nbsp;&nbsp;
   <a href="https://x.com/Mallam_Teja?s=09" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://unstop.com/u/tejakqba8271" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-logo.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://unstop.com/u/tejakqba8271" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-logo.svg" width="60"/></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/@tejamallam" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/></a>&nbsp;&nbsp;
   <a href="https://github.com/MallamTeja" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40"/></a>
 </p>
