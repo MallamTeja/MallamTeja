@@ -2,16 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=32CD32&center=true&vCenter=true&width=800&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I%27m%20Teja;Data%20Analytics;Fullstack;AI%20Enthusiast&cacheBust=1" alt="Typing SVG" />
 </p>
 
-
-
 ---
 
 ## 🚀 About Me  
-I enjoy learning by doing and I am passionate about transforming data into actionable insights.  
-Proficient in *Java, Python, and SQL, I actively use tools like **Power BI, Tableau* to solve problems and visualize data effectively.  
+I learn best through hands-on projects and I am passionate about transforming data into actionable insights.  
+Proficient in *Java, Python, and SQL*, I actively use tools like **Power BI** and **Tableau** to solve problems and visualize data effectively.  
 
-Beyond coding, I focus on *AI-driven automation, prompt engineering, n8n, ML* to stay ahead in this AI-driven era.  
-I also participate in workshops, Tech conferences, and competitions to expand my network and sharpen my technical edge.  
+Beyond coding, I focus on *AI-driven automation, prompt engineering, n8n, and ML* to stay ahead in this AI-driven era.  
+I also participate in workshops, tech conferences, and competitions to expand my network and sharpen my technical edge.  
 
 ---
 
@@ -22,7 +20,7 @@ I also participate in workshops, Tech conferences, and competitions to expand my
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
-  <img src="https://s3.amazonaws.com/codechef_shared/press/CodeChef_Logo.png" width="55"/>&nbsp;&nbsp;
+  <img src="https://github.com/topics/codechef/raw/main/codechef.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>
 </p>
@@ -63,7 +61,7 @@ I also participate in workshops, Tech conferences, and competitions to expand my
 
 <p align="center">
   <a href="https://leetcode.com/tejamallam026" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/press/CodeChef_Logo.png" width="55"/></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://github.com/topics/codechef/raw/main/codechef.png" width="55"/></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/mallamteja" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="55"/></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/tejamallam" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="55"/></a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="55"/></a>
@@ -74,10 +72,10 @@ I also participate in workshops, Tech conferences, and competitions to expand my
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mallam-teja/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/Mallam_Teja?s=09" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://unstop.com/u/tejakqba8271" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-logo.svg" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/@tejamallam" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/MallamTeja" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="55"/></a>
+  <a href="https://www.linkedin.com/in/mallam-teja/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/Mallam_Teja?s=09" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://unstop.com/u/tejakqba8271" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-logo.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/@tejamallam" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/MallamTeja" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40"/></a>
 </p>
