@@ -51,8 +51,8 @@ I also participate in workshops, tech conferences, and competitions to expand my
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="180"/>
   </p>
 
 ---
@@ -64,7 +64,7 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://github.com/topics/codechef/raw/main/codechef.png" width="55"/></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/mallamteja" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="55"/></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/tejamallam" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="85"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="75"/></a>
 </p>
 
 ---
