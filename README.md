@@ -20,7 +20,6 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
-  <img src="https://github.com/topics/codechef/raw/main/codechef.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>
 </p>
