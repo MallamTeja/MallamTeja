@@ -23,13 +23,13 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>
 </p>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65"/>&nbsp;&nbsp;
