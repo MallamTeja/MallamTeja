@@ -13,13 +13,16 @@ I also participate in workshops, tech conferences, and competitions to expand my
 
 ---
 
+
 ## 🛠 Skills  
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp;
+
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>
 </p>
@@ -46,6 +49,7 @@ I also participate in workshops, tech conferences, and competitions to expand my
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats  
 
