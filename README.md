@@ -50,11 +50,26 @@ I also participate in workshops, tech conferences, and competitions to expand my
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MallamTeja&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Top Languages" height="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.demolab.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="165"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/showable?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MallamTeja&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Top Languages" height="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🔥 Recent GitHub Activity
