@@ -45,7 +45,8 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
 </p>
-##  📊 GitHub Stats  
+
+##📊 GitHub Stats  
 
 <p align="center">
 
