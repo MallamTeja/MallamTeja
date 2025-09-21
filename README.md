@@ -45,7 +45,6 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
 </p>
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -56,12 +55,13 @@ I also participate in workshops, tech conferences, and competitions to expand my
       <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
     </td>
 
-    <!-- Right Column spanning left column height -->
-    <td rowspan="2">
+    <!-- Right Column (Languages) -->
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MallamTeja&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Top Languages" height="325"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
