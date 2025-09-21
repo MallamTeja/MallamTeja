@@ -57,10 +57,9 @@ I also participate in workshops, tech conferences, and competitions to expand my
 </p>
 
 ---
-
 ### 🔥 Recent GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=MallamTeja&bg_color=0D1117&color=32CD32&line=fafafa&point=228B22&area=true&hide_border=true" alt="MallamTeja's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MallamTeja&bg_color=0D1117&color=32CD32&line=fafafa&point=228B22&area=true&hide_border=true" alt="MallamTeja's GitHub Activity Graph" />
 </p>
 
 ## 💻 Coding Profiles  
