@@ -13,7 +13,6 @@ I also participate in workshops, tech conferences, and competitions to expand my
 
 ---
 
-
 ## 🛠 Skills  
 
 <p align="center">
@@ -52,16 +51,25 @@ I also participate in workshops, tech conferences, and competitions to expand my
 ## 📊 GitHub Stats  
 
 <p align="center">
-  
   <img src="https://streak-stats.demolab.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
 </p>
 
+---
 
+### 🔥 Recent GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=MallamTeja&bg_color=0D1117&color=32CD32&line=fafafa&point=228B22&area=true&hide_border=true" alt="MallamTeja's GitHub Activity Graph" />
+</p>
 
+### 🌐 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MallamTeja&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Top Languages" />
+</p>
+
+---
 
 ## 💻 Coding Profiles  
-
 
 <p align="center">
   <a href="https://leetcode.com/tejamallam026" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/></a>&nbsp;&nbsp;
@@ -81,5 +89,5 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="40"/></a>&nbsp;&nbsp;
   <a href="https://unstop.com/u/tejakqba8271" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-logo.svg" width="80"/></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/@tejamallam" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/></a>&nbsp;&nbsp;
-  
+  <a href="https://discord.com/users/tej_patel_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40"/></a>
 </p>
