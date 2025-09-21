@@ -45,12 +45,13 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
 </p>
-## 📊 GitHub Stat
+##  📊 GitHub Stats  
 
-      <img src="https://streak-stats.demolab.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="160"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
-    
+<p align="center">
 
+  <img src="https://streak-stats.demolab.com/?user=MallamTeja&theme=dark&background=0D1117&ring=228B22&fire=228B22&currStreakLabel=228B22&sideLabels=228B22&dates=228B22" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0D1117" height="160"/>
+</p>
 
 
 ---
