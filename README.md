@@ -33,7 +33,7 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="110"/>&nbsp;&nbsp;
