@@ -46,7 +46,7 @@ I also participate in workshops, tech conferences, and competitions to expand my
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
 </p>
 
-##📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
 
