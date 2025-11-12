@@ -6,10 +6,11 @@
 
 ## 🚀 About Me
 
-I learn best through hands-on projects and I am passionate about transforming data into actionable insights.  
-Proficient in **Java, Python, and SQL**, I actively use tools like **Power BI** and **Tableau** to solve problems and visualize data effectively.  
-Beyond coding, I focus on **AI-driven automation, prompt engineering, n8n, and ML** to stay ahead in this AI-driven era.  
-I also participate in **workshops, tech conferences, and competitions** to expand my network and sharpen my technical edge.
+I enjoy learning by doing, I am passionate about transforming data into actionable insights. Proficient in Java, Python, and SQL, I have experience with various data analysis tools, libraries, and web development. 
+
+ I actively use platforms like LinkedIn and GitHub for personal branding and professional growth. As an event enthusiast, I used to attend and participate in hackathons, workshops, tech conferences, and other events, where I actively network with like-minded people.
+
+ I am continuously updating my AI skills, including prompt engineering, n8n automations, vibe coding, MCP connections, RAGS, Finetuning and other new-age AI tools, to thrive in this AI era
 
 ---
 
