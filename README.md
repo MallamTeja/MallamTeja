@@ -10,7 +10,7 @@ I enjoy learning by doing, I am passionate about transforming data into actionab
 
  I actively use platforms like LinkedIn and GitHub for personal branding and professional growth. As an event enthusiast, I used to attend and participate in hackathons, workshops, tech conferences, and other events, where I actively network with like-minded people.
 
- I am continuously updating my AI skills, including prompt engineering, n8n automations, vibe coding, MCP connections, RAGS, Finetuning and other new-age AI tools, to thrive in this AI era
+ I am continuously updating my AI skills, including prompt engineering, AI-Driven automations, vibe coding, MCP connections, SLM's, Finetuning and other new-age AI skilsl and tools, to thrive in this AI era
 
 ---
 
