@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-***I enjoy learning by doing***, I am passionate about transforming data into actionable insights. Proficient in **Java, Python, and SQL**, I have experience with various data analysis tools, libraries, and web development. 
+***I enjoy learning by doing***, I am passionate about transforming data into actionable insights. Proficient in **Python, SQL and Java**, I have experience with various data analysis tools, libraries, and web development. 
 
  I actively use platforms like **LinkedIn** and **GitHub** for personal branding and professional growth. As an event enthusiast, I used to attend and participate in hackathons, workshops, tech conferences, and other events, where I actively network with like-minded people.
 
