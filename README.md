@@ -87,3 +87,7 @@
   <a href="https://www.figma.com/@tejamallam" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/tej_patel_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40"/></a>
 </p>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
