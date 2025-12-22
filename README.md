@@ -2,16 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=650&color=32CD32&center=true&vCenter=true&width=870&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I'm%20Teja;Data%20Analytics;Fullstack;AI%20Enthusiast&cacheBust=1" alt="Typing SVG" />
 </p>
 
----
 
 ## 🚀 About Me
 
-***I enjoy learning by doing***, I am passionate about transforming data into actionable insights. Proficient in **Python, SQL and Java**, I have experience with various data analysis tools, libraries, ML and web development. 
+***I enjoy learning by doing***, I am passionate about transforming raw data into actionable insights. Proficient in **Python, SQL and Java**, I have experience with various data analysis tools, libraries, ML and web development. 
 
  I actively use platforms like **LinkedIn**, **X** and **GitHub** for personal branding and professional growth. As an event enthusiast, I used to attend and participate in hackathons, workshops, tech conferences, and other events, where I actively network with like-minded people.
 
-I continuously update my AI skills, including ** prompt engineering, vibe coding, building ensemble models, fnn', transformer nn's, mlp, finetuning dl models, SLM's, n8n automations and other emerging new age AI tools**, to stay ahead and Thrive in this AI era.
----
+I continuously update my AI skills, including **prompt engineering, vibe coding, building ensemble models, FNN's, transformer nn's, MLP's, finetuning dl models, SLM's, n8n automations** and other emerging new age AI tools, to stay ahead and Thrive in this AI era 
 
 ## 🛠 Skills
 
