@@ -37,7 +37,7 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="110"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="85"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
