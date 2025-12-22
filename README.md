@@ -6,12 +6,11 @@
 
 ## 🚀 About Me
 
-***I enjoy learning by doing***, I am passionate about transforming data into actionable insights. Proficient in **Python, SQL and Java**, I have experience with various data analysis tools, libraries, and web development. 
+***I enjoy learning by doing***, I am passionate about transforming data into actionable insights. Proficient in **Python, SQL and Java**, I have experience with various data analysis tools, libraries, ML and web development. 
 
- I actively use platforms like **LinkedIn** and **GitHub** for personal branding and professional growth. As an event enthusiast, I used to attend and participate in hackathons, workshops, tech conferences, and other events, where I actively network with like-minded people.
+ I actively use platforms like **LinkedIn**, **X** and **GitHub** for personal branding and professional growth. As an event enthusiast, I used to attend and participate in hackathons, workshops, tech conferences, and other events, where I actively network with like-minded people.
 
- I am continuously updating my AI skills, including **prompt engineering, AI-Driven automations, vibe coding, MCP connections, SLM's, Finetuning** and other new-age AI skilsl and tools, to thrive in this AI era
-
+I continuously update my AI skills, including ** prompt engineering, vibe coding, building ensemble models, fnn', transformer nn's, mlp, finetuning dl models, SLM's, n8n automations and other emerging new age AI tools**, to stay ahead and Thrive in this AI era.
 ---
 
 ## 🛠 Skills
