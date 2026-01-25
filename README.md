@@ -30,7 +30,7 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="55"/>
+<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="55"/>
 
 
   
