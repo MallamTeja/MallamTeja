@@ -15,15 +15,17 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="55" alt="PostgreSQL"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="55" alt="Redis"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="55"/>&nbsp;&nbsp;
 </p>
+
+
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="55"/>&nbsp;&nbsp;
@@ -36,9 +38,10 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>&nbsp;&nbsp;
    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="55"/>&nbsp;&nbsp;
 
-
-  
 </p>
+
+
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="115"/>&nbsp;&nbsp;
@@ -47,6 +50,8 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="55" alt="FastAPI"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph-langchain/default.svg" width="55" alt="LangGraph"/>&nbsp;&nbsp;
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/LangChain_Logo.svg" width="120" alt="LangChain"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
 </p>
