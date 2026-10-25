@@ -19,18 +19,20 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="55" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="55" alt="Redis"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="55"/>&nbsp;&nbsp;
 </p>
 
 <p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.creazilla.com/icons/3269928/githubactions-icon-size_512.png" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="55"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/32CD32" width="55" alt="GitHub Actions"/>&nbsp;&nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="55" alt="Supabase"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>&nbsp;&nbsp;
    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="55"/>&nbsp;&nbsp;
 
@@ -43,9 +45,8 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="115"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="55" alt="FastAPI"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>&nbsp;&nbsp;
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/fastapi-91dvq8q5ewijkczjmd9bcb.png/fastapi-ggmxtn5w3qqwks1i5jnx2p.png?_a=DATAiZAAZAA0" width="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
 </p>
