@@ -50,8 +50,8 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="55" alt="FastAPI"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph-langchain/default.svg" width="55" alt="LangGraph"/>&nbsp;&nbsp;
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/LangChain_Logo.svg" width="120" alt="LangChain"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph-langchain/default.svg" width="75" alt="LangGraph"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/langchain-ai/langgraphjs/HEAD/.github/images/logo-light.svg" width="120" alt="LangGraph" />&nbsp;&nbsp;  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
 </p>
