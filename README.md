@@ -18,7 +18,7 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="55" alt="FastAPI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" alt="FastAPI" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="55" alt="PostgreSQL"/>&nbsp;&nbsp;
