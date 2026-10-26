@@ -50,8 +50,8 @@ I continuously update my AI skills, including **prompt engineering, vibe coding,
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>&nbsp;&nbsp;
-  <img src="https://files.brandlogos.net/svg/sbXzVXnLZr/langchain-logo-brandlogos.net_dexzv4edm.svg" width="150" alt="LangChain" />
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph-langchain/default.svg" width="75" alt="LangGraph"/>&nbsp;&nbsp;
+      <img src="https://files.brandlogos.net/svg/sbXzVXnLZr/langchain-logo-brandlogos.net_dexzv4edm.svg" width="180" alt="LangChain" style="height:60px; object-fit:contain; vertical-align:middle;" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph-langchain/default.svg" width="90" alt="LangGraph" style="height:60px; object-fit:contain; vertical-align:middle;" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
 </p>
